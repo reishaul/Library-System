@@ -1,6 +1,5 @@
-מגישים: 
-רעי שאול: 325390086
-רון אברהם: 208007005
+Implements and logic by Ron Avraham - ronavraham1999@gmail.com, Rei Shaul - reishaul1@gmail.com
+
 
 
 הוראות להרצת הפרויקט:
