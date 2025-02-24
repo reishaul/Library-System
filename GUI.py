@@ -1,3 +1,4 @@
+#Implements and logic by Ron Avraham - ronavraham1999@gmail.com, Rei Shaul - reishaul1@gmail.com
 import tkinter as tk
 import Obserever
 from tkinter import ttk
